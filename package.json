@@ -1,0 +1,16 @@
+{
+  "name": "nodeSync",
+  "description": "A queryable file server designed to provide easy syncing with multiple remote locations in a customized manner with different settings for any given remote.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Nathan Johson",
+    "email": "nodejs@njohnson.me"
+  },
+  "dependencies": {
+    "sqlite3": "~2.2.0"
+  },
+  "repositories": {
+    "type": "git",
+    "url": "https://github.com/n-johnson/node-sync.git"
+  }
+}

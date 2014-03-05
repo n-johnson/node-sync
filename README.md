@@ -1,9 +1,12 @@
 node-sync
 =========
 
+work in progress.
+
 Node.JS File Manager Outline
 ____________________________
 
+TODO
 Maintain sqlite (written in a wrapper so it can be changed with anything) database database of files
 
 What should be stored in database:
